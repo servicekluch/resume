@@ -3,6 +3,7 @@ tmp/
 *_old 
 *_backup 
 .DS_Store
+.idea
 
 # Windows thumbnail cache files
 Thumbs.db
